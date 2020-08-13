@@ -1,0 +1,16 @@
+{
+  "name": "cite",
+  "version": "0.0.1",
+  "description": "Cite",
+  "author": "RenatoMendes",
+  "private": true,
+  "dependencies": {
+    "@byteowls/capacitor-filesharer": "^2.0.0",
+    "@capacitor/android": "^2.2.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0",
+    "capacitor-fcm": "^2.0.0",
+    "cordova-admob-plus": "^0.36.0",
+    "cordova-plugin-file": "^6.0.2"
+  }
+}
