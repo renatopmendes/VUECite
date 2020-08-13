@@ -2,7 +2,7 @@
 
 ## "Cite
 
-App "Cite para Android, BackEnd desenvolvido em Laravel 7, banco de dados MySql e hospedado no Google Cloud.
+App "Cite para Android, FrontEnd desenvolvido em Vuejs, Vuex, Quasar e Firebase.
 
 - [Download](https://play.google.com/store/apps/details?id=com.renmen.cite).
 
